@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning HTML, CSS, C++ and Git.
-- 👯 I’m looking to improve in programming.
+- 👯 I’m looking for improving in programming.
 - 📫 How to reach me: viniciuapacheco2004@gmail.com
 - 😄 Pronouns: He/Him.
-- 🍭 Fun fact: I first met kpop in 2018, because of Tzuyu (TWICE).
+- 🍭 Fun fact: I'm a Kpop stan and before choosing the tech area, wanted to be a doctor.
 
 <br>
 
