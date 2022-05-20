@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, C++ and Git.
 - 👯 I’m looking to improve in programming.
-- 📫 How to reach me: viniciulovestwice@gmail.com
+- 📫 How to reach me: viniciuapacheco2004@gmail.com
 - 😄 Pronouns: He/Him.
 - 🍭 Fun fact: I first met kpop in 2018, because of Tzuyu (TWICE).
 
