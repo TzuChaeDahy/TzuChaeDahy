@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS and Git.
+- 🌱 I’m currently learning HTML, CSS, C++ and Git.
 - 👯 I’m looking to improve in programming.
 - 📫 How to reach me: viniciulovestwice@gmail.com
 - 😄 Pronouns: He/Him.
