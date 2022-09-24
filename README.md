@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning HTML, CSS, JS and Git.
-- 👯 I’m looking for improving in programming.
+- 👯 I’m looking for improving in programming so i can become a great web/fullstack developer.
 - 📫 How to reach me: viniciusapacheco2004@gmail.com
 - 😄 Pronouns: He/Him.
-- 🍭 Fun fact: I'm a Kpop stan and before choosing the tech area, wanted to be a doctor.
 
 <br>
 
@@ -20,6 +19,12 @@
 </div>
   
 ##
+ 
+ 
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git&theme=light)](https://skills.thijs.gg)
+
+
  
 <div> 
   <a href="https://twitter.com/TzuChaeDahy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
