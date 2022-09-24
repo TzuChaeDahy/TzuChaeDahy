@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS and Git.
+- 🌱 I’m currently learning HTML, CSS, JS and Git.
 - 👯 I’m looking for improving in programming.
 - 📫 How to reach me: viniciusapacheco2004@gmail.com
 - 😄 Pronouns: He/Him.
