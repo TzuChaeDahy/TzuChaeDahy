@@ -1,6 +1,6 @@
 # 👋🏼 Welcome! My Name is Vinicius, and...
 
-- 🌱 I’m Currently Learning **HTML**, **CSS**, **JS** and **Git**.
+- 🌱 I’m Currently Learning **JS**, **TailwindCSS** and **React**.
 - 👯 I’m Looking for **Improving** in **Programming**, so I Can Become a **Great Web/Fullstack Developer**.
 - 📖 I'm a Self-Taught person. I've learned English 🇺🇸 and Guitar 🎸 by myself. 
 - 📫 How to Contact me: viniciusapacheco2004@gmail.com
@@ -8,28 +8,31 @@
 
 ## Some Stats About my Profile
 
-![image](https://github-readme-stats.vercel.app/api?username={username})
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username={username})
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=TzuChaeDahy&show_icons=true&theme=vue-dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TzuChaeDahy&theme=vue-dark)
 
 ## 📚 Main Knowledge
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 📝 Learning...
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📖 Secondary Knowledge
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## 🎒 Next Steps...
+## 🎒 Next Steps
 
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![]()
 
