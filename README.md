@@ -1,7 +1,7 @@
 # 👋🏼 Welcome! My Name is Vinicius, and...
 
 - 🧑‍🎓 I'm Currently Enrolled in a System Information Major.
-- 🌱 I’m Learning **Flutter** and **GO**.
+- 🌱 I’m Learning **Flutter** and **Go**.
 - 📖 I'm a Self-Taught guy. I've learned English 🇺🇸 and Guitar 🎸 all by myself. 
 - 💼 I'm open to Oportunities!
 - 📫 How to Contact me: viniciusapacheco2004@gmail.com
