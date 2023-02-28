@@ -1,8 +1,8 @@
 # 👋🏼 Welcome! My Name is Vinicius, and...
 
-- 🌱 I’m Currently Learning **React**, **Redux**, **API** and **GO**.
-- 👯 I’m Looking for **Improving** in **Programming**, so I Can Become a **Great Web/Fullstack Developer**.
-- 📖 I'm a Self-Taught person. I've learned English 🇺🇸 and Guitar 🎸 by myself. 
+- 🧑‍🎓 I'm Currently Enrolled in a System Information Major.
+- 🌱 I’m Learning **Flutter** and **GO**.
+- 📖 I'm a Self-Taught guy. I've learned English 🇺🇸 and Guitar 🎸 all by myself. 
 - 💼 I'm open to Oportunities!
 - 📫 How to Contact me: viniciusapacheco2004@gmail.com
 
@@ -12,25 +12,23 @@
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <br />
 
 ## 📝 Learning...
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <br />
 
 ## 🎒 Next Steps
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br />
 
