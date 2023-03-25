@@ -1,12 +1,15 @@
 # 👋🏼 Welcome! My Name is Vinicius, and...
 
 - 🧑‍🎓 I'm Currently Enrolled in a System Information Major.
-- 🌱 I’m Learning **Flutter** and **Go**.
+- 🌱 I’m Learning **Go**, **PostgreSQL** and **Flutter**.
 - 📖 I'm a Self-Taught guy. I've learned English 🇺🇸 and Guitar 🎸 all by myself. 
 - 💼 I'm open to Oportunities!
 - 📫 How to Contact me: viniciusapacheco2004@gmail.com
 
 <br />
+
+![](https://github-readme-stats.vercel.app/api?username=TzuChaeDahy&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TzuChaeDahy&theme=blue-green)
 
 ## 📚 Main Knowledge
 
@@ -20,15 +23,17 @@
 <br />
 
 ## 📝 Learning...
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br />
 
 ## 🎒 Next Steps
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br />
 
