@@ -9,7 +9,6 @@
 <br />
 
 ![](https://github-readme-stats.vercel.app/api?username=TzuChaeDahy&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TzuChaeDahy&theme=blue-green)
 
 ## 📚 Main Knowledge
 
