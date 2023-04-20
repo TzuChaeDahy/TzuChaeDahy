@@ -1,6 +1,6 @@
 # 👋🏼 Welcome! My Name is Vinicius, and...
 
-- 🧑‍🎓 I'm Currently Enrolled in a System Information Major.
+- 🎓 I'm Currently Enrolled in a System Information Major.
 - 🌱 I’m Learning **Go** and **PostgreSQL**.
 - 📖 I'm a Self-Taught Guy.
 - 👨🏻‍💻 I'm Currently a Member of DIT - IFAL.
