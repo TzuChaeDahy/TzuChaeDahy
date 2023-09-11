@@ -1,7 +1,7 @@
 # 👋🏼 Welcome! My Name is Vinicius, and...
 
 - 🎓 I'm Currently Enrolled in a System Information Major.
-- 🌱 I’m Learning **Typescript**, **React**, **NodeJS**, **Redux** and **GO**.
+- 🌱 I’m Learning **Typescript**, **React**, **Java**, **Spring** and **GO**.
 - 📖 I'm a Self-Taught Guy.
 - 👨🏻‍💻 I'm Currently a Member of DIT - IFAL as a Backend Developer.
 - 💼 I'm open to Oportunities!
