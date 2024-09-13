@@ -1,7 +1,7 @@
 # 👋🏼 Welcome! My Name is Vinicius, and...
 
 - 🎓 I'm Currently Enrolled in a System Information Major.
-- 🌱 I’m Learning **Spring Boot** and **React**.
+- 🌱 I’m Learning **Spring Boot**, **AWS**, **Angular** and **React**.
 - 📖 I'm a Self-Taught Guy.
 - 👨🏻‍💻 I'm Currently a Member of DIT - IFAL as a Backend Developer.
 - 💼 I'm open to Oportunities!
@@ -11,14 +11,15 @@
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ## 💻 Backend
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📱 Mobile
@@ -33,7 +34,6 @@
 ## 🎒 Future Steps
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## ✉️ Social Networks
 
