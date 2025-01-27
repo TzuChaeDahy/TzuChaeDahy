@@ -4,7 +4,6 @@
 - ☁️ I'm a AWS Certified Cloud Practitioner.
 - 🎓 I'm currently enrolled in a system information major.
 - 📖 I'm a self-taught guy.
-- 💼 I'm open to oportunities!
 
 ## ⚠️ See below some of my favorite techonologies!
 
